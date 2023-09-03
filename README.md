@@ -1,6 +1,6 @@
 # ¡Hola, Bienvenido! 👋
 
-[![jopsa developer](https://cdn.psa.mx/images/banners/banner-github.jpg)](https://jopsa.me/)
+[![jopsa developer](https://cdn.psa.mx/images/banners/b-github.jpg)](https://jopsa.me/)
 
 Soy un apasionado profesional autodidacta que se dedica a idear soluciones creativas para una amplia gama de desafíos. Mi enfoque se basa en la aplicación de conocimientos técnicos avanzados con el objetivo de construir experiencias digitales excepcionales y efectivas.
 
