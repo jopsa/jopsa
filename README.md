@@ -2,9 +2,9 @@
 
 [![jopsa developer](https://cdn.psa.mx/images/banners/b-github.jpg)](https://jopsa.me/)
 
-Soy un apasionado profesional autodidacta que se dedica a idear soluciones creativas para una amplia gama de desafíos. Mi enfoque se basa en la aplicación de conocimientos técnicos avanzados con el objetivo de construir experiencias digitales excepcionales y efectivas.
+Soy un apasionado profesional autodidacta que se dedica a idear soluciones creativas para una amplia gama de desafíos. Mi enfoque se basa en la aplicación de conocimientos técnicos avanzados con el objetivo de construir experiencias digitales con éxito.
 
-Desde 2013, he venido desarrollando activamente en el ámbito web de manera profesional. Durante este período, he colaborado con diversas empresas que abarcan desde el sector de la construcción con enfoque en sistemas, hasta instituciones educativas, startups de Marketing Digital y proyectos independientes. Mi enfoque como profesional autodidacta se centra en proporcionar soluciones a una amplia gama de desafíos, aplicando mis conocimientos técnicos para crear experiencias digitales.
+Desde 2013, he venido desarrollando activamente en el ámbito web de manera profesional. Durante este período, he colaborado con diversas empresas que abarcan desde el sector de la construcción en el área de sistemas, hasta instituciones educativas, startups de Marketing Digital, entidades gubernamentales y proyectos independientes. Mi enfoque como profesional autodidacta se centra en proporcionar soluciones a una amplia gama de desafíos, aplicando mis conocimientos técnicos para crear experiencias digitales.
 
 ---
 
