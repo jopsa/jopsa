@@ -17,7 +17,7 @@ Te presento algunos de mis últimos desarrollos:
 
 Conecta conmigo desde alguno de los siguientes canales:
 
-[![Follow me on Twitter](https://img.shields.io/badge/Twitter-c1d431?style=for-the-badge&logo=twitter&logoColor=16171a)](https://twitter.com/jsaurina) [![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-c1d431?style=for-the-badge&logo=linkedin&logoColor=16171a)](https://linkedin.com/in/jpsaurina) [![Subscribe to my YouTube channel](https://img.shields.io/badge/YouTube-c1d431?style=for-the-badge&logo=youtube&logoColor=16171a)](https://www.youtube.com/channel/UCYGG9ydWB1kUp1mHBx2xmsA)
+[![Follow me on Twitter](https://img.shields.io/badge/Twitter-c1d431?style=for-the-badge&logo=twitter&logoColor=16171a)](https://twitter.com/jpsaurina) [![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-c1d431?style=for-the-badge&logo=linkedin&logoColor=16171a)](https://linkedin.com/in/jsaurina) [![Subscribe to my YouTube channel](https://img.shields.io/badge/YouTube-c1d431?style=for-the-badge&logo=youtube&logoColor=16171a)](https://www.youtube.com/channel/UCYGG9ydWB1kUp1mHBx2xmsA)
 
 ---
 
