@@ -1,23 +1,20 @@
-# ¡Hola, Bienvenido! 👋
+# ¡Hola! 👋 ¿Estás en búsqueda de un desarrollador fullstack?
 
-[![jopsa developer](https://cdn.psa.mx/images/banners/b-github.jpg)](https://jopsa.me/)
+[![jopsa developer](https://strapi.jopsa.me/public/banner-github.png)](https://jopsa.me/)
 
-Soy un apasionado profesional autodidacta que se dedica a idear soluciones creativas para una amplia gama de desafíos. Mi enfoque se basa en la aplicación de conocimientos técnicos avanzados con el objetivo de construir experiencias digitales con éxito.
+Soy un apasionado profesional autodidacta, dedicado en ofrecer soluciones creativas e innovadoras. Me especializo en el desarrollo de soluciones a la medida, utilizando herramientas y procesos modernos para garantizar resultados satisfactorios.
 
-Desde 2013, he venido desarrollando activamente en el ámbito web de manera profesional. Durante este período, he colaborado con diversas empresas que abarcan desde el sector de la construcción en el área de sistemas, hasta instituciones educativas, startups de Marketing Digital, entidades gubernamentales y proyectos independientes. Mi enfoque como profesional autodidacta se centra en proporcionar soluciones a una amplia gama de desafíos, aplicando mis conocimientos técnicos para crear experiencias digitales.
+Desde 2013, he venido desarrollando activamente en el ámbito web de manera profesional. Durante este período, he colaborado con diversas empresas que abarcan desde el sector de la construcción en el área de sistemas, hasta instituciones educativas, startups de Marketing Digital, entidades gubernamentales y proyectos independientes. Mi objetivo es transformar los problemas en oportunidades creando experiencias digitales con éxito.
 
 ---
 
 Te presento algunos de mis últimos desarrollos:
 
 - Lorem ipsum dolor sit amet.
-- Lorem ipsum dolor sit amet.
-- Lorem ipsum dolor sit amet.
-- Lorem ipsum dolor sit amet.
 
 Conecta conmigo desde alguno de los siguientes canales:
 
-[![Follow me on Twitter](https://img.shields.io/badge/Twitter-c1d431?style=for-the-badge&logo=twitter&logoColor=16171a)](https://twitter.com/jpsaurina) [![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-c1d431?style=for-the-badge&logo=linkedin&logoColor=16171a)](https://linkedin.com/in/jsaurina) [![Subscribe to my YouTube channel](https://img.shields.io/badge/YouTube-c1d431?style=for-the-badge&logo=youtube&logoColor=16171a)](https://www.youtube.com/channel/UCYGG9ydWB1kUp1mHBx2xmsA)
+[![Follow me on Twitter](https://img.shields.io/badge/Twitter-bae6fd?style=for-the-badge&logo=twitter&logoColor=16171a)](https://twitter.com/jpsaurina) [![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-bae6fd?style=for-the-badge&logo=linkedin&logoColor=16171a)](https://linkedin.com/in/jsaurina) [![Subscribe to my YouTube channel](https://img.shields.io/badge/YouTube-bae6fd?style=for-the-badge&logo=youtube&logoColor=16171a)](https://www.youtube.com/channel/UCYGG9ydWB1kUp1mHBx2xmsA)
 
 ---
 
