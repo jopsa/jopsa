@@ -1,4 +1,4 @@
-# ¡Hola! 👋 ¿Estás en búsqueda de un desarrollador fullstack?
+# ¡Hola! 👋 ¿Buscas un desarrollador fullstack?
 
 [![jopsa developer](https://strapi.jopsa.me/public/banner-github.png)](https://jopsa.me/)
 
